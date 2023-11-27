@@ -14,7 +14,7 @@
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
-- URL para clone: https://pt.wikipedia.org/w/index.php?title=Especial:Entrar&returnto=Login
+- URL para clone: https://pt.wikipedia.org/w/index.php?title=Especial:Entrar&returnto=Login&returntoquery=centralAuthAutologinTried%3D1%26centralAuthError%3DNot%2Bcentrally%2Blogged%2Bin
 
 ### Observações com o endereço público
 
