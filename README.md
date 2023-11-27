@@ -23,4 +23,4 @@
 
 ### Resutados
 
-![Resultado](./passwd.png "Optional title")
+![Resultado](./passwd.png "IMG")
